@@ -48,3 +48,4 @@ fs.readdir('./../../nodejs',(err,fls)=>{
 });
 
 //instalar package json npm init ; module=npm i module --save y npm i
+//desinstalar npm uninstall lodash --save
